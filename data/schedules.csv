@@ -1,0 +1,5 @@
+schedule_id,enabled,include_tags,include_match,exclude_tags,exclude_match
+SCH-KR,true,region:KR,ANY,,ANY
+SCH-JP,true,region:JP,ANY,,ANY
+SCH-US,true,region:US,ANY,role:db,ANY
+SCH-US-DB,false,region:US;role:db,ALL,,ANY

@@ -1,0 +1,2 @@
+exception_id,asset_id,approval_status,starts_on,expires_on
+EX001,A005,approved,2026-09-01,2026-10-12

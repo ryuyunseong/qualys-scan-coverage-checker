@@ -1,0 +1,13 @@
+asset_id,hostname,tags,last_successful_scan_date,latest_scan_status
+A001,KR-WEB-01,region:KR;env:prod;role:web,2026-10-12,success
+A002,US-DB-02,region:US;env:prod;role:db,,never
+A003,JP-APP-03,region:JP;env:prod;role:app,2026-08-29,success
+A004,KR-WEB-04,region:KR;role:web,2026-09-01,success
+A005,US-APP-05,region:US;env:prod;role:app,2026-09-01,success
+A006,KR-DB-06,region:KR;env:prod;role:db,2026-10-10,success
+A007,JP-WEB-07,region:JP;env:prod;role:web,2026-10-09,success
+A008,US-WEB-08,region:US;env:prod;role:web,2026-10-08,success
+A009,KR-APP-09,region:KR;env:prod;role:app,2026-10-07,success
+A010,JP-DB-10,region:JP;env:prod;role:db,2026-10-06,success
+A011,US-APP-11,region:US;env:prod;role:app,2026-10-05,success
+A012,KR-WEB-12,region:KR;env:dev;role:web,2026-10-04,success
